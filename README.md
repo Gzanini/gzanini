@@ -1,4 +1,4 @@
-## Olá! Eu sou o Guilherme Zanini | Big Data Developer - Neogrid 
+## Olá! Eu sou o Guilherme Zanini | Platform Data Engineer - Poatek
 
 - 📚 Engenharia da Computação - Unisinos
 
