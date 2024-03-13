@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/gzanini">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=gzanini&show_icons=true&theme=dark&include_all_commits=true&count_private=true&disable_animations=true"/>
-  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzanini&layout=compact&langs_count=7&theme=dark"/>
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=gzanini&show_icons=true&theme=dark&include_all_commits=true&count_private=true&disable_animations=true"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzanini&layout=compact&langs_count=7&theme=dark"/>
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
