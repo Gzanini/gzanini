@@ -1,6 +1,6 @@
-## Olá! Eu sou o Guilherme Zanini | Platform Data Engineer - Poatek
+## Guilherme Zanini | Platform Data Engineer - Poatek
 
-- 📚 Engenharia da Computação - Unisinos
+- 📚 Engenharia da Computação - Unisinos 
 
 <div align="center">
   <a href="https://github.com/gzanini">
