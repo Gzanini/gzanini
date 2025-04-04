@@ -1,4 +1,4 @@
-## Guilherme Zanini | Platform Data Engineer - Poatek
+## Guilherme Zanini | Platform Data Engineer - TELUS Digital Brazil
 
 - 📚 Engenharia da Computação - Unisinos 
 
