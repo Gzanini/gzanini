@@ -1,6 +1,6 @@
 ## Guilherme Zanini
 
-- Platform Data Engineer - TELUS Digital Brazil
+- Platform Data Engineer - TELUS Digital
 -  Engenharia da Computação - Unisinos 
 
 <div align="center">
